@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscncrypt",
+        "uuid": 12500520,
+        "checksum": "kawju"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
